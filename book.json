@@ -1,0 +1,27 @@
+{
+  "title": "A Programmer's Guide to English",
+  "plugins": [
+    "editlink",
+    "ga",
+    "book-summary-scroll-position-saver",
+    "disqus",
+    "github",
+    "splitter"
+  ],
+  "pluginsConfig": {
+    "editlink": {
+      "base": "https://github.com/yujiangshui/A-Programmers-Guide-to-English/edit/master",
+      "label": "Edit This Page",
+      "multilingual": false
+    },
+    "github": {
+      "url": "https://github.com/yujiangshui/A-Programmers-Guide-to-English"
+    },
+    "ga": {
+      "token": "UA-57557739-6"
+    },
+    "disqus": {
+      "shortName": "a-programmers-guide-to-english"
+    }
+  }
+}
